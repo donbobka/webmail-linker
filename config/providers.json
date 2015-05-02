@@ -1445,7 +1445,7 @@
 	},
 	{
 		"name":    "Яндекс",
-		"domains": "yandex[.](ru|ua|com)",
+		"domains": "(ya.ru|yandex[.](ru|ua|com|kz|by)",
 		"url":     "https://mail.yandex.ru/",
 		"icon":    "https://yastatic.net/morda-logo/i/favicon_islands.ico"
 	},
